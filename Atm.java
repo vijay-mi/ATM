@@ -3,13 +3,13 @@ import java.util.Scanner;
 class Details
 {
     int Id1 = 10001;
-    String UserName1 = "Vijay Kumar Mishra";  
+    String UserName1 = "Andreo";  
 
     int Id2 = 10002;
-    String UserName2 = "Youvraj Singh";
+    String UserName2 = "RAFEL";
     
     int Id3 = 10003;
-    String UserName3 = "Aman singh";  
+    String UserName3 = "JACK";  
 
     String p;
     int n50=4, n100=3, n200=6, n500=9, n2000=6;
